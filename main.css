@@ -5,3 +5,7 @@ body {
     font-family: 'VT323', monospace;
     color: #37F005;
 }
+
+a {
+    color: dodgerblue;
+}
